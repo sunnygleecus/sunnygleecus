@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnygleecus
-- 👀 I’m interested in Node.js API Devlepment
-- 🌱 I’m currently learning TypeScript and AWS
+- 👀 I’m interested in Node.js API Devlepment, AWS and Python
+- 🌱 I’m currently learning TypeScript, Python and AWS
 - 📫 How to reach me linkedin:Sunny William Ralph or mail to: sralphwilly@gmail.com
 
 <!---
